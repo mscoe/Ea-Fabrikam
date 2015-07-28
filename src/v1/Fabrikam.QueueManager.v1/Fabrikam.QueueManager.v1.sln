@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fabrikam.QueueManager.v1", "Fabrikam.QueueManager.v1\Fabrikam.QueueManager.v1.csproj", "{D94C0896-5E45-44C6-895F-D6F4D51BC708}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fabrikam.Queue.WinServices.v1", "Fabrikam.Queue.WinServices.v1\Fabrikam.Queue.WinServices.v1.csproj", "{82B085ED-6815-49DB-B47F-C306DEF13F9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D94C0896-5E45-44C6-895F-D6F4D51BC708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D94C0896-5E45-44C6-895F-D6F4D51BC708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D94C0896-5E45-44C6-895F-D6F4D51BC708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D94C0896-5E45-44C6-895F-D6F4D51BC708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82B085ED-6815-49DB-B47F-C306DEF13F9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82B085ED-6815-49DB-B47F-C306DEF13F9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82B085ED-6815-49DB-B47F-C306DEF13F9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82B085ED-6815-49DB-B47F-C306DEF13F9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
