@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BA9B6418-9396-43C7-804B-4896A901A955}</ProjectGuid>
+    <ProjectGuid>{AC42E1C7-8E53-45D7-9EE4-48F0D7A793D4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Fabrikam.Module1.Uc1.Query.Business.v1</RootNamespace>
-    <AssemblyName>Fabrikam.Module1.Uc1.Query.Business.v1</AssemblyName>
+    <RootNamespace>Fabrikam.Module1.Uc1.Query.Business.Interfaces.v1</RootNamespace>
+    <AssemblyName>Fabrikam.Module1.Uc1.Query.Business.Interfaces.v1</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -42,9 +42,6 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
