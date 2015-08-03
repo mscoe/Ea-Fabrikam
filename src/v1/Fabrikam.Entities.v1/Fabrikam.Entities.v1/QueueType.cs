@@ -4,9 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Fabrikam.QueueManager.v1
+namespace Fabrikam.Entities.v1
 {
-    public class Class1
+    public enum QueueType
     {
+        Booking,
+        Scheduling
     }
+
 }
+
