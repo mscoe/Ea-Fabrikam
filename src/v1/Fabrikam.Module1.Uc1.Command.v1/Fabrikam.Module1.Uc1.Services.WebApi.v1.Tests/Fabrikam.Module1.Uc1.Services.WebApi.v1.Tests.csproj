@@ -33,6 +33,22 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Fabrikam.Entities.v1, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Fabrikam.Entities.v1.1.0.0.0\lib\net46\Fabrikam.Entities.v1.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Fabrikam.Module1.Uc1.Query.Business.Interfaces.v1, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Fabrikam.Module1.Uc1.Query.Business.Interfaces.v1.1.0.0.0\lib\net46\Fabrikam.Module1.Uc1.Query.Business.Interfaces.v1.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Fabrikam.Module1.Uc1.Query.ServiceLib.Interfaces.v1, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Fabrikam.Module1.Uc1.Query.ServiceLib.Interfaces.v1.1.0.0.0\lib\net46\Fabrikam.Module1.Uc1.Query.ServiceLib.Interfaces.v1.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Fabrikam.ValidationLib.v1, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Fabrikam.ValidationLib.v1.1.0.0.0\lib\net46\Fabrikam.ValidationLib.v1.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
     <Reference Include="System" />

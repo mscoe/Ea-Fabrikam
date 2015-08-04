@@ -41,6 +41,30 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Fabrikam.Entities.v1, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Fabrikam.Entities.v1.1.0.0.0\lib\net46\Fabrikam.Entities.v1.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Fabrikam.Module1.Uc1.Query.Business.Interfaces.v1, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Fabrikam.Module1.Uc1.Query.Business.Interfaces.v1.1.0.0.0\lib\net46\Fabrikam.Module1.Uc1.Query.Business.Interfaces.v1.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Fabrikam.Module1.Uc1.Query.ServiceLib.Interfaces.v1, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Fabrikam.Module1.Uc1.Query.ServiceLib.Interfaces.v1.1.0.0.0\lib\net46\Fabrikam.Module1.Uc1.Query.ServiceLib.Interfaces.v1.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Fabrikam.Module1.Uc1.Query.ServiceLib.v1, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Fabrikam.Module1.Uc1.Query.ServiceLib.v1.1.0.0.0\lib\net46\Fabrikam.Module1.Uc1.Query.ServiceLib.v1.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Fabrikam.Utilities.v1, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Fabrikam.Utilities.v1.1.0.0.0\lib\net46\Fabrikam.Utilities.v1.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Fabrikam.ValidationLib.v1, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Fabrikam.ValidationLib.v1.1.0.0.0\lib\net46\Fabrikam.ValidationLib.v1.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />

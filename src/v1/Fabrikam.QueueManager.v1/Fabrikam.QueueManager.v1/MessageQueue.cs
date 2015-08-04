@@ -1,4 +1,4 @@
-﻿using Fabrikam.Entities.v1;
+﻿
 using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 using Fabrikam.Utilities.v1;
