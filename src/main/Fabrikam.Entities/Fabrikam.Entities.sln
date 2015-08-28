@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fabrikam.Entities", "Fabrikam.Entities\Fabrikam.Entities.csproj", "{8A65DABE-BD84-4E9D-9535-6AE4BB34FC81}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fabrikam.BusinessEntities", "Fabrikam.BusinessEntities\Fabrikam.BusinessEntities.csproj", "{8A65DABE-BD84-4E9D-9535-6AE4BB34FC81}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fabrikam.ServiceEntities", "Fabrikam.ServiceEntities\Fabrikam.ServiceEntities.csproj", "{7FBF1D1F-B823-4C7C-ACDF-FBB6A5BF5828}"
 EndProject
